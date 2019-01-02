@@ -26,8 +26,8 @@ The pipeline created for this project processes images in the following steps:
 [image5]: ./output_images/5.color_lanes_Output/test1_out.jpg "Color Lanes"
 
 [video1]: ./output_videos/project_video_ouput.mp4 "Project Video"
-[video1]: ./output_videos/challenge_video_ouput.mp4 "Challenge Video"
-[video1]: ./output_videos/harder_challenge_output.mp4 "Harder Video"
+[video2]: ./output_videos/challenge_video_ouput.mp4 "Challenge Video"
+[video3]: ./output_videos/harder_challenge_output.mp4 "Harder Video"
 
 ### Step 1: Compute the camera calibration matrix and distortion coefficients
 In this step, I used the OpenCV functions `findChessboardCorners` and `drawChessboardCorners` to identify the locations of corners on a series of pictures of a chessboard taken from different angles.
